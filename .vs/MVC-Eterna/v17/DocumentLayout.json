@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|c:\\users\\comp\\desktop\\eterna_mvc\\mvc-eterna\\wwwroot\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|solutionrelative:mvc-eterna\\wwwroot\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|c:\\users\\comp\\desktop\\eterna_mvc\\mvc-eterna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|solutionrelative:mvc-eterna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|c:\\users\\comp\\desktop\\eterna_mvc\\mvc-eterna\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|solutionrelative:mvc-eterna\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|c:\\users\\comp\\desktop\\eterna_mvc\\mvc-eterna\\views\\portfolio\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|solutionrelative:mvc-eterna\\views\\portfolio\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|c:\\users\\comp\\desktop\\eterna_mvc\\mvc-eterna\\viewmodels\\portfoliodetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|solutionrelative:mvc-eterna\\viewmodels\\portfoliodetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|c:\\users\\comp\\desktop\\eterna_mvc\\mvc-eterna\\models\\projectimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|solutionrelative:mvc-eterna\\models\\projectimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|c:\\users\\comp\\desktop\\eterna_mvc\\mvc-eterna\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|solutionrelative:mvc-eterna\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|c:\\users\\comp\\desktop\\eterna_mvc\\mvc-eterna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7A8782-6CA6-434C-9EC8-92CE0FBDD40B}|MVC-Eterna\\MVC-Eterna.csproj|solutionrelative:mvc-eterna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\wwwroot\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "MVC-Eterna\\wwwroot\\assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\wwwroot\\assets\\js\\main.js",
+              "RelativeToolTip": "MVC-Eterna\\wwwroot\\assets\\js\\main.js",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAewF4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-21T19:04:21.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC-Eterna\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC-Eterna\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T18:49:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectImg.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Models\\ProjectImg.cs",
+              "RelativeDocumentMoniker": "MVC-Eterna\\Models\\ProjectImg.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Models\\ProjectImg.cs",
+              "RelativeToolTip": "MVC-Eterna\\Models\\ProjectImg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:55:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-Eterna\\Program.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Program.cs",
+              "RelativeToolTip": "MVC-Eterna\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:46:30.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PortfolioDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\ViewModels\\PortfolioDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "MVC-Eterna\\ViewModels\\PortfolioDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\ViewModels\\PortfolioDetailsViewModel.cs",
+              "RelativeToolTip": "MVC-Eterna\\ViewModels\\PortfolioDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:38:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-Eterna\\Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "MVC-Eterna\\Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCgAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T18:32:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Views\\Portfolio\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC-Eterna\\Views\\Portfolio\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Views\\Portfolio\\Details.cshtml",
+              "RelativeToolTip": "MVC-Eterna\\Views\\Portfolio\\Details.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwB0AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T18:24:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "MVC-Eterna\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\Eterna_MVC\\MVC-Eterna\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "MVC-Eterna\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwB4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:22:43.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

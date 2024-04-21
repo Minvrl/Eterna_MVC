@@ -1,0 +1,46 @@
+﻿@model TeamViewModel
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+        <div class="container">
+
+            <ol>
+                <li><a href="index.html">Home</a></li>
+                <li>Team</li>
+            </ol>
+            <h2>Team</h2>
+
+        </div>
+    </section><!-- End Breadcrumbs -->
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team">
+        <div class="container">
+
+            <div class="row">
+                @foreach (Member item in Model.Members)
+                {
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                        <div class="member">
+                            <img src="assets/img/team/@item.Image" alt="">
+                            <h4>@item.Name</h4>
+                            <span>@item.Occupation</span>
+                            <p>
+                                @item.Description
+                            </p>
+                            <div class="social">
+                               @foreach (SocialMedia sns in item.SocialMedia)
+                                {
+                                    <a href="@sns.Name"><i class="bi @sns.Icon"></i></a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            </div>
+
+        </div>
+    </section><!-- End Team Section -->
+
+</main><!-- End #main -->
